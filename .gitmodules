@@ -1,0 +1,6 @@
+[submodule "IR_project_backend"]
+	path = IR_project_backend
+	url = git@github.com:Saatvik07/IR_project_backend.git
+[submodule "IR_Project_Frontend"]
+	path = IR_Project_Frontend
+	url = git@github.com:Saatvik07/IR_Project_Frontend.git
